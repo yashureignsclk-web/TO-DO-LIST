@@ -1,0 +1,6 @@
+{
+  "name": "Serene Focus",
+  "description": "A calm, intentional task planner and daily focus workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
